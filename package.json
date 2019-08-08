@@ -1,0 +1,19 @@
+{
+  "name": "honestfoods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^6.2.0",
+    "point-in-polygon": "^1.0.1",
+    "read-xml": "^3.0.0",
+    "supertest": "^4.0.2",
+    "xml-js": "^1.6.11"
+  }
+}
